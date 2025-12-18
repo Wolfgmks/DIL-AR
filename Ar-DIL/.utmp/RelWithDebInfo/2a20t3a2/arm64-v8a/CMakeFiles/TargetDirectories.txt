@@ -1,0 +1,5 @@
+D:/Documentos/DIL/DIL-AR/Ar-DIL/.utmp/RelWithDebInfo/2a20t3a2/arm64-v8a/CMakeFiles/edit_cache.dir
+D:/Documentos/DIL/DIL-AR/Ar-DIL/.utmp/RelWithDebInfo/2a20t3a2/arm64-v8a/CMakeFiles/rebuild_cache.dir
+D:/Documentos/DIL/DIL-AR/Ar-DIL/.utmp/RelWithDebInfo/2a20t3a2/arm64-v8a/GameActivity/CMakeFiles/game.dir
+D:/Documentos/DIL/DIL-AR/Ar-DIL/.utmp/RelWithDebInfo/2a20t3a2/arm64-v8a/GameActivity/CMakeFiles/edit_cache.dir
+D:/Documentos/DIL/DIL-AR/Ar-DIL/.utmp/RelWithDebInfo/2a20t3a2/arm64-v8a/GameActivity/CMakeFiles/rebuild_cache.dir

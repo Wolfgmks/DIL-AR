@@ -21,9 +21,39 @@ MonoBehaviour:
       m_GuidLow: 5459119916969007776
       m_GuidHigh: 8193546043013768633
     m_SerializedTextureGuid:
-      m_GuidLow: 15556828028852683511
-      m_GuidHigh: 4507143851480291064
-    m_Size: {x: 0.1, y: 0.07048998}
+      m_GuidLow: 7689046350508898477
+      m_GuidHigh: 10721769827356847787
+    m_Size: {x: 0.1, y: 0.055880092}
     m_SpecifySize: 1
     m_Name: LogoDIL
-    m_Texture: {fileID: 2800000, guid: 2b9ac2f7f4abd7e4f89611fb73978c3e, type: 3}
+    m_Texture: {fileID: 2800000, guid: df98b8adfaea6ab4ab2e1b03da60cb94, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5736089953921331701
+      m_GuidHigh: 526677257691917993
+    m_SerializedTextureGuid:
+      m_GuidLow: 17934467936294462115
+      m_GuidHigh: 16222464569567066331
+    m_Size: {x: 0.1, y: 0.1}
+    m_SpecifySize: 1
+    m_Name: fbLogo
+    m_Texture: {fileID: 2800000, guid: 3276e2a30791f8e4dbb8676293c521e1, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5754336219898736667
+      m_GuidHigh: 16545992133737355193
+    m_SerializedTextureGuid:
+      m_GuidLow: 7819397560157947955
+      m_GuidHigh: 17057083538945651306
+    m_Size: {x: 0.1, y: 0.1}
+    m_SpecifySize: 1
+    m_Name: instaLogo
+    m_Texture: {fileID: 2800000, guid: eac5483314a66c846ab2043b1befb6ec, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5150673882682493543
+      m_GuidHigh: 909134754174989236
+    m_SerializedTextureGuid:
+      m_GuidLow: 2190112795852782972
+      m_GuidHigh: 10652730778458695707
+    m_Size: {x: 0.1, y: 0.10062222}
+    m_SpecifySize: 1
+    m_Name: ybLogo
+    m_Texture: {fileID: 2800000, guid: eed7bd7cd7fb1e641ba8e6d1331ad693, type: 3}
