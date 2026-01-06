@@ -18,42 +18,32 @@ MonoBehaviour:
     m_Storage: []
   m_Images:
   - m_SerializedGuid:
-      m_GuidLow: 5459119916969007776
-      m_GuidHigh: 8193546043013768633
-    m_SerializedTextureGuid:
-      m_GuidLow: 7689046350508898477
-      m_GuidHigh: 10721769827356847787
-    m_Size: {x: 0.1, y: 0.055880092}
-    m_SpecifySize: 1
-    m_Name: LogoDIL
-    m_Texture: {fileID: 2800000, guid: df98b8adfaea6ab4ab2e1b03da60cb94, type: 3}
-  - m_SerializedGuid:
       m_GuidLow: 5736089953921331701
       m_GuidHigh: 526677257691917993
     m_SerializedTextureGuid:
-      m_GuidLow: 17934467936294462115
-      m_GuidHigh: 16222464569567066331
+      m_GuidLow: 8080600972252920348
+      m_GuidHigh: 16850947263254706104
     m_Size: {x: 0.1, y: 0.1}
     m_SpecifySize: 1
     m_Name: fbLogo
-    m_Texture: {fileID: 2800000, guid: 3276e2a30791f8e4dbb8676293c521e1, type: 3}
+    m_Texture: {fileID: 2800000, guid: 7acfba1c0fc57024b837237b4197dae9, type: 3}
   - m_SerializedGuid:
       m_GuidLow: 5754336219898736667
       m_GuidHigh: 16545992133737355193
     m_SerializedTextureGuid:
-      m_GuidLow: 7819397560157947955
-      m_GuidHigh: 17057083538945651306
+      m_GuidLow: 17560928754212100680
+      m_GuidHigh: 520688073757516345
     m_Size: {x: 0.1, y: 0.1}
     m_SpecifySize: 1
     m_Name: instaLogo
-    m_Texture: {fileID: 2800000, guid: eac5483314a66c846ab2043b1befb6ec, type: 3}
+    m_Texture: {fileID: 2800000, guid: 00c15a48f3a9f3b43962195b0bdb3907, type: 3}
   - m_SerializedGuid:
       m_GuidLow: 5150673882682493543
       m_GuidHigh: 909134754174989236
     m_SerializedTextureGuid:
-      m_GuidLow: 2190112795852782972
-      m_GuidHigh: 10652730778458695707
-    m_Size: {x: 0.1, y: 0.10062222}
+      m_GuidLow: 559624267863431192
+      m_GuidHigh: 17127451302299744346
+    m_Size: {x: 0.1, y: 0.1}
     m_SpecifySize: 1
     m_Name: ybLogo
-    m_Texture: {fileID: 2800000, guid: eed7bd7cd7fb1e641ba8e6d1331ad693, type: 3}
+    m_Texture: {fileID: 2800000, guid: 7db018182f4e07c45ab860dd36eeb0ed, type: 3}
