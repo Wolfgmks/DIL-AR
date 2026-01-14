@@ -6,11 +6,20 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/Scenes/Main.unity
+    guid: eead147718afc8845ac64edb2f37836e
+  - enabled: 1
     path: Assets/Scenes/Ar-Basic.unity
     guid: 99c9720ab356a0642a771bea13969a05
-  - enabled: 0
+  - enabled: 1
     path: Assets/Scenes/PlaneVisualizer.unity
     guid: c863446d6a18809459de3a85031be31a
+  - enabled: 1
+    path: Assets/Scenes/Ar-Face.unity
+    guid: 4383f4d45e594d645a15fff100b50b20
+  - enabled: 1
+    path: Assets/Scenes/Ar-Hands.unity
+    guid: 16833c85ba5102848b4751e6b190c561
   m_configObjects:
     UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 13ac25206d089ab41ac6b25d8868f40f, type: 2}
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
