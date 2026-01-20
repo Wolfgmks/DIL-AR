@@ -18,8 +18,14 @@ EditorBuildSettings:
     path: Assets/Scenes/Ar-Face.unity
     guid: 4383f4d45e594d645a15fff100b50b20
   - enabled: 1
-    path: Assets/Scenes/Ar-Hands.unity
-    guid: 16833c85ba5102848b4751e6b190c561
+    path: Assets/Scenes/Ar-Points.unity
+    guid: 07e92a1a296092e41956fecda4c0994f
+  - enabled: 1
+    path: Assets/Scenes/Ar-Points-Density.unity
+    guid: 0625decf8e1cba24b86e10f862378131
+  - enabled: 1
+    path: Assets/Scenes/Ar-Face-Marks.unity
+    guid: 0b1fa9faff840194495ac209a036cd59
   m_configObjects:
     UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 13ac25206d089ab41ac6b25d8868f40f, type: 2}
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
